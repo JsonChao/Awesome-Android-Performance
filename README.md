@@ -17,7 +17,7 @@ Explore Android performance optimization in depth
 - 极客时间之Android开发高手课 导读（了解）
 - 《Android开发艺术探索》第十五章 Android性能优化（了解）
 
-### 稳定性优化
+### [稳定性优化]()（进行中~）
 
 - [Android稳定性优化](https://blog.csdn.net/gs344937933/article/details/89888975) （了解）
 

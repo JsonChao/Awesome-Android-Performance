@@ -1,7 +1,7 @@
 # Awesome-Android-Performance
 Explore Android performance optimization in depth
 <div align="center">
-<img src="https://github.com/JsonChao/Awesome-Android-Notebook/blob/master/screenshots/android-performance.png">
+<img src="https://github.com/JsonChao/Awesome-Android-Performance/blob/master/screenshots/android-performance.png">
 </div>
 
 > 深入探索Android性能优化，从应用层、Framework层、Native层、ART/Dalvik以及Linux内核实现原理等各个层次深入挖掘各项性能优化技术~
@@ -12,10 +12,11 @@ Explore Android performance optimization in depth
 
 ## Contents
 
-### 全面了解
+### [全面了解](https://github.com/JsonChao/Awesome-Android-Performance/edit/master/notes/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)（已完成）
 
 - 极客时间之Android开发高手课 导读（了解）
 - 《Android开发艺术探索》第十五章 Android性能优化（了解）
+
 
 ### [稳定性优化]()（进行中~）
 

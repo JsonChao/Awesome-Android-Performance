@@ -58,7 +58,7 @@ Explore Android performance optimization in depth
 - 《Android移动性能实战》第八章 响应时延（经验）
 
 
-### [绘制优化](https://jsonchao.github.io/2019/07/28/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E7%BB%98%E5%88%B6%E4%BC%98%E5%8C%96/)
+### [绘制优化](https://jsonchao.github.io/2019/07/28/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E7%BB%98%E5%88%B6%E4%BC%98%E5%8C%96/)（待完善~）
 
 - 《Android进阶解密》第十六章 绘制优化（基础）
 - 《Android性能优化最佳实践》第二章 绘制优化（基础）
@@ -68,7 +68,7 @@ Explore Android performance optimization in depth
 - 《Android移动性能实战》第四章 CPU（进阶）
 - 《Android移动性能实战》第七章 流畅度（进阶）
 
-### [内存优化](https://jsonchao.github.io/2019/08/18/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/)
+### [内存优化](https://jsonchao.github.io/2019/08/18/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E5%86%85%E5%AD%98%E4%BC%98%E5%8C%96/)（待完善~）
 
 - Android进阶解密第十七章 内存优化
 - 《Android性能优化最佳实践》第三章 内存优化

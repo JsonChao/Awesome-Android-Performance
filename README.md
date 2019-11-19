@@ -36,7 +36,7 @@ Explore Android performance optimization in depth
 - [理解Android ANR的信息收集过程](http://gityuan.com/2016/12/02/app-not-response/) （进阶）
 
 - [巧妙定位ANR问题](https://www.jianshu.com/p/545e5e7bbf94) （经验）
-- [剖析 SharedPreference apply 引起的 ANR 问题](ttps://mp.weixin.qq.com/s/IFgXvPdiEYDs5cDriApkxQ) （经验）
+- [剖析 SharedPreference apply 引起的 ANR 问题](https://mp.weixin.qq.com/s/IFgXvPdiEYDs5cDriApkxQ) （经验）
  
 
 ### [启动速度优化](https://jsonchao.github.io/2019/11/10/%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%B4%A2Android%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96/)（已完成）

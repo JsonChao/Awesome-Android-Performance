@@ -18,7 +18,7 @@ Explore Android performance optimization in depth
 - 《Android开发艺术探索》第十五章 Android性能优化（了解）
 
 
-### [稳定性优化]()（进行中~）
+### [稳定性优化]()（进行中，预计11月24号产出~）
 
 - [Android稳定性优化](https://blog.csdn.net/gs344937933/article/details/89888975) （了解）
 

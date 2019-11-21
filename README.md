@@ -34,7 +34,7 @@ Explore Android performance optimization in depth
 - [ANR监测机制](https://www.jianshu.com/p/ad1a84b6ec69) （进阶）
 - [理解Android ANR的触发原理](http://gityuan.com/2016/07/02/android-anr/) （进阶）
 - [理解Android ANR的信息收集过程](http://gityuan.com/2016/12/02/app-not-response/) （进阶）
-- [应用与系统稳定性第一篇---ANR问题分析的一般套路](https://www.jianshu.com/p/18f16aba79dd)
+- [应用与系统稳定性第一篇---ANR问题分析的一般套路](https://www.jianshu.com/p/18f16aba79dd)（进阶）
 
 - [巧妙定位ANR问题](https://www.jianshu.com/p/545e5e7bbf94) （经验）
 - [剖析 SharedPreference apply 引起的 ANR 问题](https://mp.weixin.qq.com/s/IFgXvPdiEYDs5cDriApkxQ) （经验）

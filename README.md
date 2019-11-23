@@ -27,7 +27,7 @@ Explore Android performance optimization in depth
 - 慕课网之Top团队大牛带你玩转Android性能分析与优化 第十一章 App稳定性优化（进阶）
 - 极客时间之Android开发高手课 崩溃优化 （进阶）
 - [Android 平台 Native 代码的崩溃捕获机制及实现](https://mp.weixin.qq.com/s/g-WzYF3wWAljok1XjPoo7w?)
-- [安全模式：天猫App启动保护实践)(https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247488429&idx=1&sn=448b414a0424d06855359b3eb2ba8569&source=41#wechat_redirect)
+- [安全模式：天猫App启动保护实践)(https://mp.weixin.qq.com/s__biz=MzUxMzcxMzE5Ng==&mid=2247488429&idx=1&sn=448b414a0424d06855359b3eb2ba8569&source=41#wechat_redirect)
 - [美团外卖Android Crash治理之路](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651748107&idx=1&sn=55dff1b286e92cfb6aaee776df8ec89e&chksm=bd12ae468a652750a7624c30eca56f6f83347b16cdfb9153b647c6e5229a822b16724a1bbd9d&scene=38#wechat_redirect) （进阶）
 - [海神平台Crash监控SDK（Android）开发经验总结](https://mp.weixin.qq.com/s/PoWPWy3cXFlG1nohgJTJgw) (进阶）
 - [Android Native Crash 收集](https://mp.weixin.qq.com/s?__biz=MzAxNzMxNzk5OQ==&mid=2649485876&idx=1&sn=29ead87814c62a9b3e80cd6ada51e13c&chksm=83f83b34b48fb2225db860a290b4e7ee3b30475d887c2b38e8e29881b297c3cdb5c6d44deaed&scene=38#wechat_redirect) (进阶）

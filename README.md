@@ -132,7 +132,7 @@ Android稳定性优化是一个需要长期投入，持续运营和维护的一�
     
 ### License
 
-Copyright 2018 JsonChao
+Copyright 2019 JsonChao
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

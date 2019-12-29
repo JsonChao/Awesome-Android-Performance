@@ -14,7 +14,7 @@ Explore Android performance optimization in depth
 
 ### 全面了解
 
-* [性能优化基础、APM初始](https://github.com/JsonChao/Awesome-Android-Performance/edit/master/notes/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)（已完成）
+* [性能优化基础、APM初识](https://github.com/JsonChao/Awesome-Android-Performance/edit/master/notes/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)（已完成）
 
 首先需要对性能优化有一个宏观的认知~
 

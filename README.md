@@ -47,7 +47,7 @@ Android稳定性优化是一个需要长期投入，持续运营和维护的一�
 
 ### 绘制优化
 
-* [Android性能优化之绘制优化](https://jsonchao.github.io/2019/07/28/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8B%E7%BB%98%E5%88%B6%E4%BC%98%E5%8C%96/)（已完成）
+* [Android性能优化之绘制优化](https://juejin.im/post/5e5f090de51d4526e4190980)（已完成）
 
 首先，让我们从全局的角度去认识绘制优化，并为其打下良好的优化基础。
 

@@ -8,16 +8,9 @@ Explore Android performance optimization in depth
 
 ## 前言
 
-众所周知，性能优化是Android细分领域中最难且也是知识面涉及最深和最广的方向之一，但是如果你想要成为一名顶尖的Android工程师，性能优化细分领域则是非常好的实战与理论结合的场所。因此，为了将性能优化涉及的各个层面的知识成体系地糅合到一起，笔者创建了Awesome-Android-Performance这个项目，希望能带领读者从Android系统架构中的应用层、Framework层、Native层、ART/Dalvik以及Linux内核层这一大垂直领域去深入探索与挖掘性能优化的极致技术。
+众所周知，性能优化是Android细分领域中最难且也是知识面涉及最深和最广的方向之一，但是如果你想要成为一名顶尖的Android工程师，性能优化细分领域则是非常好的实战与理论结合的场所。因此，为了将性能优化涉及的各个层面的知识成体系地融合到一起，笔者创建了Awesome-Android-Performance这个项目，希望能带领读者从Android系统架构中的应用层、Framework层、Native层、ART/Dalvik以及Linux内核层这一大垂直领域去深入探索与挖掘性能优化的极致技术。
 
 ## Contents
-
-### 全面了解
-
-* [性能优化基础、APM初识](https://github.com/JsonChao/Awesome-Android-Performance/blob/master/notes/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)（已完成）
-
-首先需要对性能优化有一个宏观的认知~
-
 
 ### 稳定性优化
 

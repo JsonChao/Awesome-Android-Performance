@@ -21,7 +21,7 @@ Android稳定性优化是一个需要长期投入，持续运营和维护的一�
 
 ### 启动速度优化
 
-* [深入探索Android启动优化](https://jsonchao.github.io/2019/11/10/%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%B4%A2Android%E5%90%AF%E5%8A%A8%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96/)（已完成）
+* [深入探索Android启动优化](https://juejin.im/post/5e6f18a951882549422ef333)（已完成）
 
 想要极致地提升App的启动速度，我们需要有一定的广度，在文中**引入了始于后端的AOP编程来实现无侵入式的函数插桩**，也需要有一定的深度，从里面的探索之旅来看，**我们先后涉及了Framework层、Native层、Dalvik虚拟机、甚至是Linux IO和文件系统相关的原理**。
 

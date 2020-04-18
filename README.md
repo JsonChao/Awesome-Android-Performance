@@ -16,56 +16,56 @@ Explore Android performance optimization in depth
 
 ## 一、稳定性优化
 
-* [深入探索Android稳定性优化](https://juejin.im/post/5e69a4fd51882549003d2f0e)（已完成）
+>  [深入探索Android稳定性优化](https://juejin.im/post/5e69a4fd51882549003d2f0e)（已完成）
 
 Android稳定性优化是一个需要长期投入，持续运营和维护的一个过程，上文中我们不仅深入探讨了Java Crash、Native Crash和ANR的解决流程及方案，还分析了其内部实现原理和监控流程。到这里，可以看到，要想做好稳定性优化，我们必须对**虚拟机运行、Linux信号处理和内存分配有一定程度的了解，只有深入了解这些底层知识，我们才能比别人设计出更好的稳定性优化方案。**
 
 
 ## 二、启动速度优化
 
-* [深入探索Android启动优化](https://juejin.im/post/5e6f18a951882549422ef333)（已完成）
+>  [深入探索Android启动优化](https://juejin.im/post/5e6f18a951882549422ef333)（已完成）
 
 想要极致地提升App的启动速度，我们需要有一定的广度，在文中**引入了始于后端的AOP编程来实现无侵入式的函数插桩**，也需要有一定的深度，从里面的探索之旅来看，**我们先后涉及了Framework层、Native层、Dalvik虚拟机、甚至是Linux IO和文件系统相关的原理**。
 
 
 ## 三、内存优化
 
-* [Android性能优化之内存优化](https://juejin.im/post/5e72b2d151882549236f9cb8)（已完成）
+>  [Android性能优化之内存优化](https://juejin.im/post/5e72b2d151882549236f9cb8)（已完成）
 
 内存优化可以说是性能优化中最重要的优化点之一，可以说，如果你没有掌握系统的内存优化方案，就不能说你对Android的性能优化有过多的研究与探索。
 
 
-* [深入探索Android内存优化](https://juejin.im/post/5e780257f265da575209652c)（已完成）
+>  [深入探索Android内存优化](https://juejin.im/post/5e780257f265da575209652c)（已完成）
 
 真正的将内存优化做到极致，还不点击去一探究竟？
 
 
 ## 四、绘制优化
 
-* [Android性能优化之绘制优化](https://juejin.im/post/5e5f090de51d4526e4190980)（已完成）
+>  [Android性能优化之绘制优化](https://juejin.im/post/5e5f090de51d4526e4190980)（已完成）
 
 首先，让我们从全局的角度去认识绘制优化，并为其打下良好的优化基础。
 
 
-* [深入探索Android布局优化（上）](https://juejin.im/post/5e1d15a851882536ca666a49)（已完成）
+>  [深入探索Android布局优化（上）](https://juejin.im/post/5e1d15a851882536ca666a49)（已完成）
 
-* [深入探索Android布局优化（下）](https://juejin.im/post/5e1e6cf66fb9a0301828ca0a)（已完成）
+>  [深入探索Android布局优化（下）](https://juejin.im/post/5e1e6cf66fb9a0301828ca0a)（已完成）
 
-* 深入探索Android布局优化（番外篇：Jetpack Compose探秘）（待定）
+>  深入探索Android布局优化（番外篇：Jetpack Compose探秘）（待定）
 
 布局优化看似是Android性能优化中最简单的专项优化项，但是笔者却花费了整整三万字的篇幅才能比较完整地将其核心知识传授给大家。因此，不要小看每一个专项优化点，深入进去，必定满载而归。
 
 
-* [深入探索Android卡顿优化（上）](https://juejin.im/post/5e41fb7de51d4526c80e9108)（已完成）
+>  [深入探索Android卡顿优化（上）](https://juejin.im/post/5e41fb7de51d4526c80e9108)（已完成）
 
-* [深入探索Android卡顿优化（下）](https://juejin.im/post/5e49fc29e51d4526d326b056)（已完成）
+>  [深入探索Android卡顿优化（下）](https://juejin.im/post/5e49fc29e51d4526d326b056)（已完成）
 
 卡顿优化可以说是Android性能优化中最复杂的环节，笔者从卡顿优化分析方法与工具、自动化卡顿检测方案及优化、ANR分析与实战、卡顿单点问题检测方案、界面秒开、优雅监控耗时盲区等多个维度来展开对App的卡顿优化进行深入讲解，相信读者必定有所收获。
 
 
 ## 五、包体积优化
 
-* [深入探索Android包体积优化](https://juejin.im/post/5e7ad1c0e51d450edc0cf053)（已完成）
+>  [深入探索Android包体积优化](https://juejin.im/post/5e7ad1c0e51d450edc0cf053)（已完成）
 
 如果要想对包体积做更深入的优化，我们就必须对 APK 组成，Dex、So 动态库以及 Resource 文件格式，还有 APK 的编译流程 有深入地了解，这样我们才能有 足够的内功素养 去实现包体积的深度优化，而此文将会带我们深入其中。
 
@@ -103,9 +103,9 @@ Android稳定性优化是一个需要长期投入，持续运营和维护的一�
 
 ## 七、IO 优化
 
-* 深入探索AndroidIO优化（上）
+>  深入探索AndroidIO优化（上）
 
-* 深入探索AndroidIO优化（下）
+>  深入探索AndroidIO优化（下）
 
 
 学习资料：极客时间之Android开发高手课 IO优化（进阶）
@@ -113,9 +113,9 @@ Android稳定性优化是一个需要长期投入，持续运营和维护的一�
 
 ## 八、存储优化
 
-* 深入探索Android存储优化（上）
+>  深入探索Android存储优化（上）
 
-* 深入探索Android存储优化（下）
+>  深入探索Android存储优化（下）
 
 
 学习资料：《Android性能优化最佳实践》第四章 存储优化（基础）、慕课网之Top团队大牛带你玩转Android性能分析与优化 第十二章第二节 存储优化（进阶）、极客时间之Android开发高手课 存储优化（进阶）、《Android移动性能实战》第一章 磁盘（经验）
@@ -123,9 +123,9 @@ Android稳定性优化是一个需要长期投入，持续运营和维护的一�
 
 ## 九、耗电优化
 
-* 深入探索Android耗电优化（上）
+>  深入探索Android耗电优化（上）
 
-* 深入探索Android耗电优化（下）
+>  深入探索Android耗电优化（下）
 
 
 学习资料：《Android性能优化最佳实践》第六章 耗电优化（基础）、慕课网之Top团队大牛带你玩转Android性能分析与优化 第九章 App电量优化（进阶）、极客时间之Android开发高手课 耗电优化（进阶）、《Android移动性能实战》第五章 电池（经验）

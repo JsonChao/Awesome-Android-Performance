@@ -74,8 +74,18 @@ Android稳定性优化是一个需要长期投入，持续运营和维护的一�
 
 > [《深入探索 Android 网络优化（一、网络核心筑基篇）》]()（进行中~）
 
-- 慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》网络部分 9 - 13章 
+- 《计算机网络 自顶向下方法》前六章
 - 《趣谈网络协议》3 - 5章
+- 慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》网络部分 9 - 13章 
+- [（建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.im/post/5e76bd516fb9a07cce750746)
+- [(建议收藏)TCP协议灵魂之问，巩固你的网路底层基础](https://juejin.im/post/5e527c58e51d4526c654bf41)
+- [一位前端小姐姐的五万字面试宝典](https://juejin.im/post/5e91b01651882573716a9b23#heading-90)
+- [面试带你飞：这是一份全面的 计算机网络基础 总结攻略](https://juejin.im/post/5ad7e6c35188252ebd06acfa#heading-2)
+- [Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试 - 网络（视频）](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md#%E7%BD%91%E7%BB%9C-%E8%A7%86%E9%A2%91]
+- [JavaGuide - 网络](https://github.com/Snailclimb/JavaGuide#%E7%BD%91%E7%BB%9C)
+- [interview - 网络](https://github.com/huihut/interview#%EF%B8%8F-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C]
+- [总结了17年初到18年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7#heading-38)
+- [CS-Notes - 网络](https://github.com/CyC2018/CS-Notes#cloud-%E7%BD%91%E7%BB%9C)
 
 
 > [《深入探索 Android 网络优化（二、网络优化筑基篇） 》]()

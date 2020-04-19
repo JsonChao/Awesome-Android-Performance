@@ -77,7 +77,7 @@ Android稳定性优化是一个需要长期投入，持续运营和维护的一�
 - 《计算机网络 自顶向下方法》前六章
 - 《趣谈网络协议》3 - 5章
 - 慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》网络部分 9 - 13章 
-- [（建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.im/post/5e76bd516fb9a07cce750746)
+- [(建议精读)HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.im/post/5e76bd516fb9a07cce750746)
 - [(建议收藏)TCP协议灵魂之问，巩固你的网路底层基础](https://juejin.im/post/5e527c58e51d4526c654bf41)
 - [一位前端小姐姐的五万字面试宝典](https://juejin.im/post/5e91b01651882573716a9b23#heading-90)
 - [面试带你飞：这是一份全面的 计算机网络基础 总结攻略](https://juejin.im/post/5ad7e6c35188252ebd06acfa#heading-2)

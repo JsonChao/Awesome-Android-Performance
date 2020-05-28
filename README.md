@@ -87,7 +87,7 @@ Android稳定性优化是一个需要长期投入，持续运营和维护的一�
 - [CS-Notes - 网络](https://github.com/CyC2018/CS-Notes#cloud-%E7%BD%91%E7%BB%9C)
 
 
-> [《深入探索 Android 网络优化（二、网络优化筑基篇） 》]()（已完成）
+> [《深入探索 Android 网络优化（二、网络优化筑基篇） 》](https://juejin.im/post/5ecf149af265da76ce577fbc)（已完成）
 
 - **极客时间之Android开发高手课 网络优化基础 1周**
 - **《Web 性能权威指南》1 - 13章**
